@@ -1,5 +1,5 @@
 # Mw Data Science Projects
-From the [ SkillFactory Data Science course ] 
+From the [Skillfactory Data Science]
 
 ## Проекты
 
